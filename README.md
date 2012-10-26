@@ -1,7 +1,7 @@
 PHP-IMAP
 ========
 
-PHP-IMAP is used to retrieve messages from an IMAP server.It uses the PHP IMAP extension to access to a given IMAP server and can execute several operations to retrieve different parts of the available messages. Currently it can retrieve information about the mail box, message headers, message data, and attachments.
+PHP-IMAP is used to retrieve messages from an IMAP server. It uses the PHP IMAP extension to access a given IMAP server and can execute several operations to retrieve different parts of the available messages. Currently it can retrieve information about the mail box, message headers, message data, and attachments.
 
 PHP-IMAP came about a few years ago due to a complete lack of quality libraries for working with PHPs IMAP functions, particularly dealing with attachments. I've just now gotten around to putting the project on github.
 
